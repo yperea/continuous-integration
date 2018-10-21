@@ -19,7 +19,7 @@
 
   3. In the Applications pane, click on **Create application**.
 
-  	![CodeDeploy Setup 2](screenshots/CD02.png)
+![CodeDeploy Setup 2](screenshots/CD02.png)
 
   4. On the Create application pane, enter the name for your application and select **EC2/On-premises** option as the Compute platform and then click on **Create application**.
 
