@@ -15,7 +15,7 @@
 
   2. Search for the CodeDeploy service and select it.
 
-  	![CodeDeploy Setup 1](screenshots/CD01.png)
+  	![CodeDeploy Setup 1](https://github.com/yperea/continuous-integration/blob/master/aws/screenshots/CD01.png "AWS CodeDeploy")
 
   3. In the Applications pane, click on **Create application**.
 
