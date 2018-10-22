@@ -15,10 +15,10 @@ Extracted from [What is Continuous Delivery? - Amazon Web Services](https://aws.
 ### Supporting Materials
 
 * Presentation
+  - [AWS CodePipeline](docs/AWSCodePipelinePresentation.pdf)
 * Demo Code (Github Repositories)
   - [AWS CodeDeploy HTML/Apache Demo (No Build needed) ](https://github.com/yperea/aws-codedeploy-sample)
   - [AWS CodePipeline Java/Tomcat Demo (Build needed)](https://github.com/yperea/aws-codedepipeline-sample-tomcat)
-  - [Presentation Demo - CodeDeploy with Tomcat]()
   - [AWS Sample - CodeDeploy with Tomcat](https://github.com/aws-samples/aws-codedeploy-sample-tomcat)
   - [AWS Sample - CodeDeploy with Apache](https://github.com/aws-samples/aws-codedeploy-samples)
   - [AWS Sample - CodeDeploy with Jenkins](https://github.com/awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux)
