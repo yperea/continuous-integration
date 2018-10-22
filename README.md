@@ -16,13 +16,14 @@ Extracted from [What is Continuous Delivery? - Amazon Web Services](https://aws.
 
 * Presentation
 * Demo Code (Github Repositories)
-  - [Simple Demo - CodeDeploy with Apache]()
+  - [AWS CodeDeploy HTML/Apache Demo (No Build needed) ](https://github.com/yperea/aws-codedeploy-sample)
+  - [AWS CodePipeline Java/Tomcat Demo (Build needed)](https://github.com/yperea/aws-codedepipeline-sample-tomcat)
   - [Presentation Demo - CodeDeploy with Tomcat]()
   - [AWS Sample - CodeDeploy with Tomcat](https://github.com/aws-samples/aws-codedeploy-sample-tomcat)
   - [AWS Sample - CodeDeploy with Apache](https://github.com/aws-samples/aws-codedeploy-samples)
   - [AWS Sample - CodeDeploy with Jenkins](https://github.com/awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux)
 * Tutorials:
-  - [Setup your own AWS CodePipeline]().
+  - [Setup your own Continuous Integration process with AWS](https://github.com/yperea/continuous-integration/blob/master/ContinuousIntegrationSetup.md)
   - [Create a Simple Pipeline (AWS CodeCommit Repository)](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-codecommit.html#codecommit-add-code)
   - [Create a Four-Stage Pipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-four-stage-pipeline.html#tutorials-four-stage-pipeline-prerequisites-jenkins-iam-role)
 

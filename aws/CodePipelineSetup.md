@@ -37,7 +37,7 @@
 
 ![CodePipeline Setup 1](screenshots/CB002.png)
 
-  - [ ] For Build specifications, choose Use a buildspec file, which will be the buildspec.yaml file in our project. Click **Continue to CodePipeline** to return to the pipeline setup process.
+  - [ ] For Build specifications, choose *Use a buildspec file*, which will be the buildspec.yaml file in our project. Click **Continue to CodePipeline** to return to the pipeline setup process.
 
 ![CodePipeline Setup 1](screenshots/CB003.png)
 
@@ -45,21 +45,21 @@
 
 ![CodePipeline Setup 1](screenshots/CP07.png)
 
-   7. **Step 4 - Add deploy stage**. Select AWS CodeDeploy as your Deploy provider and select the rest of the parameters according to your CodeDeploy Application. If there is not any CodeDeploy Application follow the steps described in the [CodeDeploy Setup Guideline](CodeDeploySetup.md).
+   7. **Step 4 - Add deploy stage**. Select AWS CodeDeploy as your Deploy provider and select the rest of parameters according to your CodeDeploy Application. If there is not any CodeDeploy Application follow the steps described in the [CodeDeploy Setup Guideline](CodeDeploySetup.md).
 
 ![CodePipeline Setup 1](screenshots/CP08.png)
 
    8. **Step 5 - Review**. Click Next and check that the information entered is correct.
 
-    - [ ] Check Pipeline Settings.
+  - [ ] Check Pipeline Settings.
 
 ![CodePipeline Setup 1](screenshots/CP09-1.png)
 
-    - [ ] Check Source Code Settings.
+  - [ ] Check Source Code Settings.
 
 ![CodePipeline Setup 1](screenshots/CP09-2.png)
 
-    - [ ] Check Build and Deploy Settings.
+  - [ ] Check Build and Deploy Settings.
 
 ![CodePipeline Setup 1](screenshots/CP09-1.png)
 
