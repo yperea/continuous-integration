@@ -36,28 +36,31 @@
 
 ![CodeDeploy Setup 4](screenshots/CD08.png)
 
-  7. Create a Deployment. Now that we have the application and a group configured we are ready to create our deployment. Verify you have the correct Deployment group selected then choose **My application is stored in GitHub** option as *Revision type*. Then you need to enter the GitHub account where is the application you are going to deploy. *To connect to a GitHub account for the first time, type an alias for the account, and then choose Connect to GitHub.*
-     For Repository name you need to enter the full path name of your repository. Go to your repository and copy the name.
+  7. **Create a Deployment**. Now that we have the application and a group configured we are ready to create our deployment. Verify you have the correct Deployment group selected then choose **My application is stored in GitHub** option as *Revision type*. Then you need to enter the GitHub account where is the application you are going to deploy. *To connect to a GitHub account for the first time, type an alias for the account, and then choose Connect to GitHub.*
+
+    Go to your GitHub account and get the **Full Path name** and **Commit ID** you want to deploy.
+
+  - [ ] Repository Full name.
 
 ![CodeDeploy Setup 4](screenshots/CD09-01.png)
 
-   - [ ] Enter the Commit ID you want to deploy. In your GitHub Repository main pane click on **"commits"**.
+   - [ ] Click on **"commits"**.
 
 ![CodeDeploy Setup 4](screenshots/CD09-02.png)
 
-   - [ ] Then copy the *commit id* by clicking on the icon on the left of the Id.
+   - [ ] Copy the *Commit ID* by clicking on the icon on the left of the Id.
 
 ![CodeDeploy Setup 4](screenshots/CD09-03.png)
 
-   - [ ] Your screen should looks like this.
+   - [ ] At the en your screen on AWS Deployment settings should look like this.
 
 ![CodeDeploy Setup 4](screenshots/CD09.png)
 
-   - [ ] Check option *"Don't fail the deployment to an instance if this lifecycle event on the instance fails"*, and choose the *"Overwrite the content"* option.
+   - [ ] Check option *"Don't fail the deployment to an instance if this lifecycle event on the instance fails"*, and choose *"Overwrite the content"* option.
 
 ![CodeDeploy Setup 4](screenshots/CD10.png)
 
-   - [ ]Leave *"Disable rollback"* option unchecked.
+   - [ ] Leave *"Disable rollback"* option unchecked.
 
   8. Finally, click **Create deployment** and you will see a confirmation message.
 
