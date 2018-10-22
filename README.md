@@ -15,7 +15,7 @@ Extracted from [What is Continuous Delivery? - Amazon Web Services](https://aws.
 ### Supporting Materials
 
 * Presentation
-  - [AWS CodePipeline](docs/AWSCodePipelinePresentation.pdf)
+  - [AWS CodePipeline](aws/docs/AWSCodePipelinePresentation.pdf)
 * Demo Code (Github Repositories)
   - [AWS CodeDeploy HTML/Apache Demo (No Build needed) ](https://github.com/yperea/aws-codedeploy-sample)
   - [AWS CodePipeline Java/Tomcat Demo (Build needed)](https://github.com/yperea/aws-codedepipeline-sample-tomcat)
