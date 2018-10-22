@@ -26,7 +26,7 @@
 
 ![CodeDeploy Setup 4](screenshots/CD05.png)
 
-   - [ ] Because of we are going to work on the same instance we need to choose **In-place** as Deployment type. Select **Amazon EC2 instances** for your **Environment configuration** *you need to have your EC2 instance tagged*.
+   - [ ] Since we are going to work on the same instance we need to choose **In-place** as Deployment type. Select **Amazon EC2 instances** for your **Environment configuration** *you need to have your EC2 instance tagged*.
 
 ![CodeDeploy Setup 4](screenshots/CD06.png)
 
