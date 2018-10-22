@@ -26,6 +26,7 @@
 
   6. **Step 3 - Add build stage**. Select **AWS CodeBuild** as your Build provider. Click on **Create project**, this will send you to the CodeBuild process.
 
+![CodePipeline Setup 1](screenshots/CP06.png)
 
   - [ ] Enter a name for you Build Project.
 
