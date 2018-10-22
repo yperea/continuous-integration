@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c63892cb-ca32-446d-b873-8b413f77b912" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aws/screenshots/CopyIcon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aws/CodeDeploySetup.md" beforeDir="false" afterPath="$PROJECT_DIR$/aws/CodeDeploySetup.md" afterDir="false" />
     </list>
@@ -38,12 +39,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="3058" />
+          <entry key="md" value="3086" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="2967" />
+          <entry key="Markdown" value="2995" />
           <entry key="PLAIN_TEXT" value="91" />
         </counts>
       </usages-collector>
@@ -55,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/aws/CodeDeploySetup.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="595">
-                <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <first_editor relative-caret-position="263">
+                <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -70,6 +71,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>because of</find>
+      <find>icon</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -191,6 +193,12 @@
               <item name="continuous-integration" type="462c0819:PsiDirectoryNode" />
               <item name="aws" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="continuous-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="continuous-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="aws" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -201,7 +209,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540246527008" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540246651770" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -237,18 +245,18 @@
       <workItem from="1540157783668" duration="530000" />
       <workItem from="1540160878346" duration="994000" />
       <workItem from="1540162463694" duration="4313000" />
-      <workItem from="1540242805852" duration="3649000" />
+      <workItem from="1540242805852" duration="3921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10892000" />
+    <option name="totallyTimeSpent" value="11164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1688" y="23" width="1696" height="1026" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26528117" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26528117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -263,7 +271,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.15807174" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.15807174" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -336,8 +344,8 @@
     <entry file="file://$PROJECT_DIR$/aws/CodeDeploySetup.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="595">
-            <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <first_editor relative-caret-position="263">
+            <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

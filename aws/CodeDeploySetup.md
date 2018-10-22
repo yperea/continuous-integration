@@ -48,7 +48,7 @@
 
 ![CodeDeploy Setup 4](screenshots/CD09-02.png)
 
-   - [ ] Copy the *Commit ID* by clicking on the icon on the left of the Id.
+   - [ ] Copy the *Commit ID* by clicking on the icon ![Github copy icon](screenshots/CopyIcon.png).
 
 ![CodeDeploy Setup 4](screenshots/CD09-03.png)
 
