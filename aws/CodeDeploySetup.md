@@ -1,7 +1,5 @@
 # AWS CodeDeploy Setup Guideline
 
-### Goal: Implement a Continuous Integration process using AWS CodeDeploy service.
-
 ## Installation Steps
 
   1. Log into AWS.

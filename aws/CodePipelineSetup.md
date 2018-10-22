@@ -1,7 +1,5 @@
 # AWS CodePipeline Setup Guideline
 
-### Goal: Setup Implement a Continuous Integration process using AWS CodeDeploy, AWS CodeBuild and AWS CodePipeline services.
-
 ## Installation Steps
 
   1. Log into AWS.
