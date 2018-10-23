@@ -60,12 +60,20 @@
 
   - [ ] Check Build and Deploy Settings.
 
-![CodePipeline Setup 1](screenshots/CP09-1.png)
+![CodePipeline Setup 1](screenshots/CP09-3.png)
 
    9. Finally, click **Create Pipeline**.
 
+This should trigger the process which you can follow in the Application CodePipeline pane.
 
+![CodePipeline Setup 1](screenshots/CP010.png)
 
+Once process has successfully finished navigate to your tomcat manager site on you EC2 Instance and verify that the new application has been deployed.
 
+![CodePipeline Setup 1](screenshots/CP011.png)
 
+Click on it and visualize your application running.
 
+![CodePipeline Setup 1](screenshots/CP012.png)
+
+Each time you commit/push a new code change to your repository, CodePipeline will automatically release this change in your instance.

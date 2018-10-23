@@ -10,8 +10,8 @@
 - [ ] [AWS CodeDeploy Agent Installed](https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent-operations-install-ubuntu.html) on the EC2 Instance.
 - [ ] [Created a Service Role for AWS CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-create-service-role.html#getting-started-create-service-role-console) in your IAM Service.
 
-### [1. AWS CodeDeploy Installation](aws/CodeDeploySetup.md)
-### [2. AWS CodePipeline Installation](aws/CodePipelineSetup.md)
+### [1. AWS CodeDeploy Setup](aws/CodeDeploySetup.md)
+### [2. AWS CodePipeline Setup](aws/CodePipelineSetup.md)
 
 
 
