@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c63892cb-ca32-446d-b873-8b413f77b912" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContinuousIntegrationSetup.md" beforeDir="false" afterPath="$PROJECT_DIR$/ContinuousIntegrationSetup.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aws/CodePipelineSetup.md" beforeDir="false" afterPath="$PROJECT_DIR$/aws/CodePipelineSetup.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="3716" />
+          <entry key="md" value="3719" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="3620" />
+          <entry key="Markdown" value="3623" />
           <entry key="PLAIN_TEXT" value="96" />
         </counts>
       </usages-collector>
@@ -56,8 +54,8 @@
         <entry file="file://$PROJECT_DIR$/aws/CodePipelineSetup.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="614">
-                <caret line="78" column="133" lean-forward="true" selection-start-line="78" selection-start-column="133" selection-end-line="78" selection-end-column="133" />
+              <first_editor relative-caret-position="563">
+                <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -191,6 +189,12 @@
               <item name="continuous-integration" type="462c0819:PsiDirectoryNode" />
               <item name="aws" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="continuous-integration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="continuous-integration" type="462c0819:PsiDirectoryNode" />
+              <item name="aws" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -203,7 +207,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540248897467" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540259768574" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -240,18 +244,18 @@
       <workItem from="1540160878346" duration="994000" />
       <workItem from="1540162463694" duration="4313000" />
       <workItem from="1540242805852" duration="5315000" />
-      <workItem from="1540258916405" duration="769000" />
+      <workItem from="1540258916405" duration="870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13327000" />
+    <option name="totallyTimeSpent" value="13428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1688" y="19" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23410758" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23410758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -266,7 +270,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.15246637" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.15246637" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -328,8 +332,8 @@
     <entry file="file://$PROJECT_DIR$/aws/CodePipelineSetup.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="614">
-            <caret line="78" column="133" lean-forward="true" selection-start-line="78" selection-start-column="133" selection-end-line="78" selection-end-column="133" />
+          <first_editor relative-caret-position="563">
+            <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

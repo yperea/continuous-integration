@@ -66,14 +66,14 @@
 
 This should trigger the process which you can follow in the Application CodePipeline pane.
 
-![CodePipeline Setup 1](screenshots/CP010.png)
+![CodePipeline Setup 1](screenshots/CP10.png)
 
 Once process has successfully finished navigate to your tomcat manager site on you EC2 Instance and verify that the new application has been deployed.
 
-![CodePipeline Setup 1](screenshots/CP011.png)
+![CodePipeline Setup 1](screenshots/CP11.png)
 
 Click on it and visualize your application running.
 
-![CodePipeline Setup 1](screenshots/CP012.png)
+![CodePipeline Setup 1](screenshots/CP12.png)
 
 Each time you commit/push a new code change to your repository, CodePipeline will automatically release this change in your instance.
