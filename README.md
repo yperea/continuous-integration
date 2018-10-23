@@ -26,7 +26,7 @@ Extracted from [What is Continuous Delivery? - Amazon Web Services](https://aws.
   - [Setup your own Continuous Integration process with AWS](https://github.com/yperea/continuous-integration/blob/master/ContinuousIntegrationSetup.md)
   - [Create a Simple Pipeline (AWS CodeCommit Repository)](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-codecommit.html#codecommit-add-code)
   - [Create a Four-Stage Pipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-four-stage-pipeline.html#tutorials-four-stage-pipeline-prerequisites-jenkins-iam-role)
-  - [Installing Tomcat as a Service on Linux Ubuntu](tomcat/TomcatService.md)
+  - [Setup Tomcat as a Service on Linux Ubuntu](tomcat/TomcatService.md)
 
 * Other References
   - [What is Continuous Integration? - Amazon Web Services](https://aws.amazon.com/devops/continuous-integration/).
