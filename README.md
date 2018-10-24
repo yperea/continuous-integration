@@ -22,11 +22,12 @@ Extracted from [What is Continuous Delivery? - Amazon Web Services](https://aws.
   - [AWS Sample - CodeDeploy with Tomcat](https://github.com/aws-samples/aws-codedeploy-sample-tomcat)
   - [AWS Sample - CodeDeploy with Apache](https://github.com/aws-samples/aws-codedeploy-samples)
   - [AWS Sample - CodeDeploy with Jenkins](https://github.com/awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux)
-* Tutorials:
+* Tutorials and Guidelines:
   - [Setup your own Continuous Integration process with AWS](https://github.com/yperea/continuous-integration/blob/master/ContinuousIntegrationSetup.md)
   - [Create a Simple Pipeline (AWS CodeCommit Repository)](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-codecommit.html#codecommit-add-code)
   - [Create a Four-Stage Pipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-four-stage-pipeline.html#tutorials-four-stage-pipeline-prerequisites-jenkins-iam-role)
   - [Setup Tomcat as a Service on Linux Ubuntu](tomcat/TomcatService.md)
+  - [Setup an EC2 Role for AWS CodePipeline Deployment](aws/CreateEC2RoleForAWSCodePipeline.md)
 
 * Other References
   - [What is Continuous Integration? - Amazon Web Services](https://aws.amazon.com/devops/continuous-integration/).

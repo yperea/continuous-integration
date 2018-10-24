@@ -77,3 +77,25 @@ Click on it and visualize your application running.
 ![CodePipeline Setup 1](screenshots/CP12.png)
 
 Each time you commit/push a new code change to your repository, CodePipeline will automatically release this change in your instance.
+
+## Troubleshooting
+
+### **Unable to sign request without credentials set**
+
+During Deployment things could go wrong, fortunately AWS gives pretty good hints about the possible error causes.
+
+1. After a failed Deployment you can check the events by clicking on *Details* link on **Deploy** section.
+
+![CodeDeploy Setup](screenshots/CP-TS01.png)
+
+  2. The event list will show you the source of the error. For this particular example we can see that an error occurred during the **DonloadBundle** process. The next step is click on the UnknownError link to view the detail of this error.
+
+![CodeDeploy Setup](screenshots/CP-TS02.png)
+
+  3. **Event Details Message** describes the cause of the error.
+
+![CodeDeploy Setup](screenshots/CP-TS03.png)
+
+**Unable to sign request without credentials set** is one of the most common error during a Deployment process, this is because there isn't a role attached to the EC2 instance that allows this operation.
+
+To fix it click on the following link [Setup an EC2 Role for AWS CodePipeline Deployment](CreateEC2RoleForAWSCodePipeline.md)
